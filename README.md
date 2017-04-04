@@ -52,10 +52,10 @@ All Scores Now: 2
 <table>
 <tr>
     <th>1.Android</th>
-<th>开发艺术</th>
-<th>算法手册</th>
-<th>设计模式</th>
-<th>开源框架源码</th>
+<th>开发艺术（1->7）</th>
+<th>+开源框架源码（1，2）</th>
+<th>+算法手册（3，4）</th>
+<th>+设计模式（5，6）</th>
 </tr>
 <tr>
     <th>2.English</th>
