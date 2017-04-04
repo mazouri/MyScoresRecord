@@ -22,7 +22,7 @@ FlyDay: 2017.04.03
 record: +1
 remember: +1
 
-All Scores Now: 1
+All Scores Now: 2
 ```
 
 <table>
@@ -32,7 +32,7 @@ All Scores Now: 1
 </tr>
 <tr>
     <th>Record</th>
-    <th>+1</th>
+    <th>+1+1</th>
 </tr>
 <tr>
     <th>Remember</th>
