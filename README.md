@@ -41,7 +41,7 @@ All Scores Now: 2
 </tr>
 <tr>
     <th>Record</th>
-    <th>+1+1</th>
+    <th>+1+1-1</th>
 </tr>
 <tr>
     <th>Remember</th>
